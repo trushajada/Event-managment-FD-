@@ -1,0 +1,56 @@
+{
+  "token": "some-token-value",
+  "data": [
+    {
+      "id": "4791",
+      "email": "trushajada254@gmail.com",
+      "password": "9909900"
+    },
+    {
+      "id": "8e85",
+      "email": "trug@gmail.com",
+      "password": "uh9houh"
+    },
+    {
+      "id": "9bd0",
+      "email": "tru@gmail.com",
+      "password": "jsjnjn"
+    },
+    {
+      "id": "e354",
+      "email": "trushhiiee@gmail.com",
+      "password": "agiabsjdb"
+    },
+    {
+      "id": "0f8b",
+      "email": "truu@gmail.com",
+      "password": "qhisbdj"
+    },
+    {
+      "id": "c1c7",
+      "email": "tiheu@gmail.com",
+      "password": "92039"
+    },
+    {
+      "id": "cc7e",
+      "email": "tr@gmail.com",
+      "password": "sdsfdad"
+    },
+    {
+      "id": "6622",
+      "email": "tr@gmail.com",
+      "password": "knkn"
+    }
+  ],
+  "events": [
+    {
+      "id": "bde0",
+      "title": "i-phone",
+      "description": "new add smart phon",
+      "date": "2024-09-06",
+      "location": "surat",
+      "maxAttendees": "6",
+      "image": null
+    }
+  ]
+}
